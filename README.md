@@ -1,3 +1,3 @@
-# challenge_6_bootcamp
+# Challnege 6 Bootcamp
 
-housing rental analysis
+Housing Rental Analysis
